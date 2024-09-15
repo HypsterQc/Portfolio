@@ -1,7 +1,5 @@
 # 🗂️ Mes Projets GitHub
 
----
-
 ## Top 3 meilleurs projets :
 - [Projet x](https://github.com/HypsterQc/Projet-x)
 ⭐⭐⭐⭐☆ 
@@ -11,6 +9,8 @@
 ⭐⭐⭐⭐☆ 
 
 ---
+
+🔔 Pour toute question ou demande d'accès, n'hésitez pas à me contacter via le [Formulaire de contact](https://github.com/HypsterQc/Formulaire_contact).
 
 ## 🛠️ Opensource 'OPN'
 - [Projet x](https://github.com/HypsterQc/Projet-x)
@@ -25,7 +25,10 @@
 ⭐⭐⭐⭐☆ 
 
 ## 🎓 Académique 'ACD'
+
 ### 💻 Baccalauréat en informatique et génie logiciel  
+---
+
 - [INF1132 - Mathématiques pour l'informatique](https://github.com/HypsterQc/ACD-INF1132) 
 ☆☆☆☆☆ 
 - [INF1070 - Utilisation et administration des systèmes informatiques](https://github.com/HypsterQc/ACD-INF1070)
