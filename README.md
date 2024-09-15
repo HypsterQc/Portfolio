@@ -1,3 +1,7 @@
+<p align="right">
+  <a href="./README_en.md">English Version</a>
+</p>
+
 # 🗂️ Mes Projets GitHub
 
 ## Top 3 meilleurs projets :
@@ -77,3 +81,7 @@
 ☆☆☆☆☆ 
 - [INF3191 - Programmation Web](https://github.com/HypsterQc/ACD-INF3191)
 ☆☆☆☆☆ 
+
+<p align="right">
+  <a href="./README_en.md">English Version</a>
+</p>
